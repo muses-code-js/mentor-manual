@@ -12,6 +12,8 @@ keywords:
 
 Welcome to the Muses Code JS community! We're glad to have you. Here's a rundown of what a typical Muses workshop is like.
 
+![Leslie Knope - Thumbs Up](/assets/leslie-thumbs.gif)
+
 ## Timing
 
 Muses Code JS is designed to be a one-day workshop. However, sometimes an event could go longer or there may be a mentoring info session a few days before.

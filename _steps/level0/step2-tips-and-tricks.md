@@ -20,6 +20,8 @@ During the workshop you'll work in a small group of learners. This is a hands-on
 
 Mentors need to be 100% focused on their learners and always be there when needed. Make sure their experience is positive and that they have fun. Do not judge, be helpful and appreciate their (in-)abilities.
 
+![Leslie Knope - Encouragement](/assets/leslie-dance.gif)
+
 ## Be flexible and accessible
 
 For attendees who are hard of hearing or would otherwise benefit from forms of communication other than talking, be prepared to use a text-based form of communication. Give them your Slack name and encourage them to DM you when they need help. (And remember to bring a laptop so you can check your DMs!)

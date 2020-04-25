@@ -1,6 +1,6 @@
 # Muses Code JS Mentor Manual
 
-![Muses Logo](./logo.png)
+<img width="300" src="assets/logo.png" />
 
 This manual is a set of useful tips and tricks that Muses Code JS mentors can use and reference.
 
