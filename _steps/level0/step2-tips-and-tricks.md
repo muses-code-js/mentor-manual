@@ -20,9 +20,7 @@ During the workshop you'll work in a small group of learners. This is a hands-on
 
 Mentors need to be 100% focused on their learners and always be there when needed. Make sure their experience is positive and that they have fun. Do not judge, be helpful and appreciate their (in-)abilities.
 
-<img src="assets/leslie-dance.gif">
-
-![Leslie Dance](assets/leslie-dance.gif)
+<img src="{{ site.baseurl }}/assets/leslie-dance.gif">
 
 ## Be flexible and accessible
 

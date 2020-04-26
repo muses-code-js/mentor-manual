@@ -49,4 +49,5 @@ You mean besides incredibly good karma? Here are some very likely outcomes:
 - Eternal gratitude from your group of attendees and the Muses Code JS community
 - You’ll help break down the stereotype that women are not interested in technology and programming and thus help your sisters, female friends, relatives and (future) daughters have more choices in their future. And you can add all that on your CV!
 
-<img width="300" src="assets/high-five.gif">
+<img src="{{ site.baseurl }}/assets/high-five.gif">
+<!-- <img width="300" src="assets/high-five.gif"> -->

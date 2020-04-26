@@ -8,9 +8,7 @@ permalink: step4/
 
 Below are the tutorials we currently use across all of our chapters for Muses Code JS workshops, hosted on GitHub.
 
-<img src="assets/git.gif" width="400">
-
-![Git](assets/git.gif)
+<img src="{{ site.baseurl }}/assets/git.gif" width="400">
 
 ## Tutorials
 
