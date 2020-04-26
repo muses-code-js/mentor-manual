@@ -1,6 +1,6 @@
 ---
 layout: step
-number: 6
+number: end
 level: 0
 title: Acknowledgements
 permalink: step6/

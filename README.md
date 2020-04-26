@@ -18,7 +18,7 @@ Install Ruby dependencies:
 bundle install
 ```
 
-Then, run the below command to serve the website locally on http://127.0.0.1:4000/:
+Then, run the below command to serve the website locally on http://127.0.0.1:4000:
 
 ```
 bundle exec jekyll serve

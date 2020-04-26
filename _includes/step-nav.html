@@ -18,4 +18,10 @@
     </li>
     {% endif %} {% endfor %}
   </ul>
+
+  <ul class="main">
+    <li class="{% if page.url == '/step7' }} %}active{% endif %}">
+      <a href="{{ '/step6' | relative_url }}">Acknowledgements</a>
+    </li>
+  </ul>
 </div>
