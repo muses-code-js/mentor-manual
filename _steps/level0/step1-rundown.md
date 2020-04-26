@@ -12,7 +12,10 @@ keywords:
 
 Welcome to the Muses Code JS community! We're glad to have you. Here's a rundown of what a typical Muses workshop is like.
 
-![Leslie Knope - Thumbs Up](/assets/leslie-thumbs.gif)
+HMMMMMM?
+<img src="{{ site.baseurl }}/assets/leslie-thumbs.gif">
+
+![Leslie Thumb](assets/leslie-thumb.gif)
 
 ## Timing
 

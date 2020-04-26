@@ -8,7 +8,7 @@ permalink: step5/
 
 Have fun! The aim at the end of the day is to show learners that coding and tech is nothing to be afraid of, but rather a lot of fun. This holds true for our mentors - let your enthusiasm and passion guide you through your mentoring experience.
 
-![Congrats!](/assets/leo-congrats.gif)
+![Congrats!](assets/leo-congrats.gif)
 
 ## Do's and Don'ts!
 

@@ -18,8 +18,8 @@ workshopname: "Mentor Manual"
 email: info@musescodejs.org
 description: > # this means to ignore newlines until "baseurl:"
   This manual has useful tips and tricks that Muses Code JS mentors can use.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/mentor-manual" # the subpath of your site, e.g. /blog
+url: "https://muses-code-js.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
