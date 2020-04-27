@@ -10,7 +10,7 @@ Have fun! The aim at the end of the day is to show learners that coding and tech
 
 <img src="{{ site.baseurl }}/assets/leo-congrats.gif">
 
-## Do's and Don'ts!
+## Dos and Don'ts!
 
 ### Do...
 
@@ -45,7 +45,7 @@ If you don't mind spending some time helping people after the workshop, we encou
 
 ## Improve the tutorial
 
-In fact, it's helpful to do it even **during the workshop**. If you see that something in the tutorial is wrong, take the 5 minutes to submit a Pull Request right away. Or even better: teach your group how to do it! It's important to do it _right away_, otherwise you will forget. Believe us, we've all been there.
+In fact, it's helpful to do it even **during the workshop**. If you see that something in the tutorial is wrong, take the 5 minutes to submit a pull request right away. Or even better: teach your group how to do it! It's important to do it _right away_, otherwise you will forget. Believe us, we've all been there.
 
 If for some reason, you can't do it right away, [at least report an issue](https://github.com/muses-code-js/). The tutorial is getting invaluably better with each event that takes place. It is important.
 
@@ -55,7 +55,7 @@ Teaching others is a very hard thing. You will learn a lot during the workshop a
 
 Please share all your findings with us. We will keep making the tutorial better and more complete.
 
-Drop us a line at info@musescodejs.org.
+Drop us a line at <a href="mailto:info@musescodejs.org">info@musescodejs.org</a>.
 
 ## Stay in touch with your group
 

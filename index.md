@@ -7,13 +7,13 @@ number: start
 
 ## Who are we?
 
-Muses Code JS free JavaScript and Node.js workshops for women, non-binary and trans folk around Australia to diversify the tech community.
+Muses Code JS run free JavaScript and Node.js workshops for women, non-binary and trans folk around Australia to diversify the tech community.
 
 At Muses, we believe that everyone should try coding at least once in their life. Therefore, we've created a community where, in a friendly atmosphere with a great vibe, people can try programming for the first time or if they already code - learn something new about JavaScript and/or Node.js.
 
 We run half day coding boot camps that offer great opportunities for our attendees to grow their network and meet new people with similar interests.
 
-As a mentor, attendees have the opportunity to not only learn from you, but also to ask someone in the tech world what the industry and job is like - so let them tap into the knowledge and experience you bring to table!
+As a mentor, attendees have the opportunity to not only learn from you, but also ask someone in the tech world about what the industry and your job is like - so let them tap into the knowledge and experience you bring to table!
 
 ## What is this?
 

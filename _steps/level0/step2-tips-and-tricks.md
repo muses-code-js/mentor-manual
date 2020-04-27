@@ -20,7 +20,7 @@ During the workshop you'll work in a small group of learners. This is a hands-on
 
 Mentors need to be 100% focused on their learners and always be there when needed. Make sure their experience is positive and that they have fun. Do not judge, be helpful and appreciate their (in-)abilities.
 
-<img src="{{ site.baseurl }}/assets/leslie-dance.gif">
+<img src="{{ site.baseurl }}/assets/leslie-thumbs.gif">
 
 ## Be flexible and accessible
 
@@ -56,11 +56,9 @@ A well-actually happens when someone says something that's almost - but not enti
 
 Subtle-isms are small things that make others feel uncomfortable, things that we all sometimes do by mistake. For example, saying "It's so easy my grandmother could do it" is a subtle-ism. Like the other three social rules, this one is often accidentally broken. Like the other three, it's not a big deal to mess up – you just apologize and move on.
 
-> The above two sections come from [Hacker School User's Manual](https://www.hackerschool.com/manual) which is a highly recommended resource for teaching.
-
 ## Learn from mistakes
 
-As we already mentioned, we want our attendees to really understand what they're doing, so they're not only copy-pasting the code, but they're actually learning something.
+As we already mentioned, we want our attendees to really understand what they're doing, so they're not just copy-pasting the code, but they're actually learning something.
 
 If they run into an error, make the attendee read the bug report and **understand it**. More importantly, we're trying to teach them that bugs aren't scary and that error pages are their friends. This approach will go a long way later on.
 
