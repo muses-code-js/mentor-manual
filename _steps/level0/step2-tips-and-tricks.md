@@ -34,7 +34,7 @@ Sometimes attendees can get overwhelmed. This is why breaks are built into the s
 
 At all times, you need to be super careful about the words you use.
 
-## Use inclusive language
+### Use inclusive language
 Use inclusive language and be careful to avoid using gendered language as much as possible, especially when addressing a group. Muses proactively welcomes non-binary and gender non-conforming folks to attend our workshops, so using "guys" and "girls" can feel exclusionary. We know it's hard as often it's said unconsciously - but words and intentions are important, and people will appreciate an imperfect self-correction over nothing. Trust us.
 
 To be more inclusive, please use terms like "everyone", "you folks" or "you all" and avoid making any assumptions about gender, identity, etc. At the start of the day, ask everyone to introduce themselves and their pronouns as part of an ice breaker, and add this to their name tag, Slack profile, etc.

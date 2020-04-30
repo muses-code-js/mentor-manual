@@ -38,7 +38,7 @@ At the start of the workshop, we'll give a brief introduction to JavaScript, the
 
 During Muses Code JS events, we use tutorials that have been written specifically for our workshops. You'll find them on our [GitHub](https://github.com/muses-code-js/).
 
-# Installation
+### Installation
 
 There is a lot to learn in the workshop! Attendees will have more time to learn if they are able to get everything installed as quickly as possible, but may need help with beforehand, namely how to:
 
